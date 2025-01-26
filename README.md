@@ -1,5 +1,3 @@
-# Tink-Her-Hack-3.0
-
 # Budget Buddy 🎯
 
 
@@ -13,7 +11,7 @@
 - Member 3: Sruthy Sunil - LBS Institute of Technology for Women
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://budgetbuddy-dun-tau.vercel.app/
 
 ### Project Description
 This is an expense tracker web application using Streamlit and SQLite, allowing users to register, log in, manage expenses, view reports, and add personalized notes. It supports functionalities like expense addition, editing, deletion, and generates visual reports (e.g., pie charts and bar charts) for spending analysis. Additionally, users can save and view personal notes tied to their accounts.
@@ -50,7 +48,8 @@ Report page
 
 
 # Build Photos
-![Team]c:\Users\admin\Downloads\Snapchat-1311836315.jpg
+![Snapchat-1311836315 (1)](https://github.com/user-attachments/assets/82e37d45-6453-4eec-bdaa-e38d90967b11)
+
 
 ## Team Contributions
 - Nivya Sudeesh: Idea Pitching
